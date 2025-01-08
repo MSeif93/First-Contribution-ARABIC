@@ -2310,5 +2310,43 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
+    <!-- Mohamed Seif -->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/MSeif93">
+                <img src="https://avatars.githubusercontent.com/u/179124640?v=4" width="50">
+                <br>
+                <h2>Mohamed Seif</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/%F0%9D%95%84%F0%9D%95%A0%F0%9D%95%99%F0%9D%95%92%F0%9D%95%9E%F0%9D%95%96%F0%9D%95%95-%F0%9D%95%8A%F0%9D%95%96%F0%9D%95%9A%F0%9D%95%97-a4879b6b/">
+                            <img src="https://media.licdn.com/dms/image/v2/D4D03AQE78frpskDPwQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1707864284201?e=1741824000&v=beta&t=I4fwFRljvUAawFBfZ72PJd15-_FnzcCZYgV2UWGSwEM" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/mohamed.seif.1993">
+                            <img src="https://scontent.fcai21-4.fna.fbcdn.net/v/t39.30808-1/468410684_8784344201649548_1469861885933503103_n.jpg?stp=c0.139.922.922a_dst-jpg_s200x200_tt6&_nc_cat=102&ccb=1-7&_nc_sid=e99d92&_nc_ohc=4KYTLJPaKJ4Q7kNvgGJEtBR&_nc_oc=AdhVHuLgzXOThVJ0sAOpKbfyCbUcMpUOJYQTK2dPWKs4SAt7Uh8g7Q0klMFRrIFPrbU&_nc_zt=24&_nc_ht=scontent.fcai21-4.fna&_nc_gid=A3y27lA3e5BwvWZ-T76i7Tq&oh=00_AYAOi33RhF9ZYNdYV9VFRPRHTlDE9PyN1ygS5_eE8CQ_Ow&oe=6784B0DC" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/MSeif93">
+                            <img src="https://avatars.githubusercontent.com/u/179124640?v=4" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// Mohamed Seif //-->
 
 </table>
